@@ -1,4 +1,4 @@
-\# TicTacToe Online
+# TicTacToe Online
 
 
 
@@ -16,7 +16,7 @@ It is included in its current state, but some features may be missing or unstabl
 
 
 
-\## Usage
+## Usage
 
 You are free to \*\*use, modify, or reuse\*\* this project in any way you like.
 
