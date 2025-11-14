@@ -8,7 +8,7 @@ The main TicTacToe gameplay works, and players can compete against each other in
 
 
 
-\## Chat Feature
+## Chat Feature
 
 The in-game chat is \*\*not finished and will probably not be completed\*\*.  
 
